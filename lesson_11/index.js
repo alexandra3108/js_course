@@ -25,7 +25,7 @@ function removeKeys2 (obj, arr) {
 let obj = arr.assign({}, obj);
         return obj;
     }
-console.log removeKeys2 (obj, arr);
+// console.log removeKeys2 (obj, arr);
 
 
 let a = 3;
